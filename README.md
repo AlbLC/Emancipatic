@@ -1,0 +1,2 @@
+# Emancipatic
+Proyecto Tripulaciones
